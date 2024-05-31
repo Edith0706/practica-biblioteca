@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliav\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C6A82F-A5A9-4769-BC45-D9B54EFE65D8}|Biblioteca\\Biblioteca.csproj|c:\\users\\eliav\\source\\repos\\biblioteca\\biblioteca\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C6A82F-A5A9-4769-BC45-D9B54EFE65D8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C6A82F-A5A9-4769-BC45-D9B54EFE65D8}|Biblioteca\\Biblioteca.csproj|c:\\users\\eliav\\source\\repos\\biblioteca\\biblioteca\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C6A82F-A5A9-4769-BC45-D9B54EFE65D8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C6A82F-A5A9-4769-BC45-D9B54EFE65D8}|Biblioteca\\Biblioteca.csproj|c:\\users\\eliav\\source\\repos\\biblioteca\\biblioteca\\formprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C6A82F-A5A9-4769-BC45-D9B54EFE65D8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\formprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eliav\\source\\repos\\Biblioteca\\Biblioteca\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\eliav\\source\\repos\\Biblioteca\\Biblioteca\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "Biblioteca\\FormPrincipal.Designer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswD8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:08:26.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\eliav\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamo.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormPrestamo.cs",
+              "ToolTip": "C:\\Users\\eliav\\source\\repos\\Biblioteca\\Biblioteca\\FormPrestamo.cs",
+              "RelativeToolTip": "Biblioteca\\FormPrestamo.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwDoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:32:19.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\eliav\\source\\repos\\Biblioteca\\Biblioteca\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\eliav\\source\\repos\\Biblioteca\\Biblioteca\\FormPrincipal.cs",
+              "RelativeToolTip": "Biblioteca\\FormPrincipal.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:55:50.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

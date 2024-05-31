@@ -1,0 +1,15 @@
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FormPrincipal.resources
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.Up2Date
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\eliav\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FormPrestamo.resources
